@@ -12,7 +12,7 @@
 }
 
 .leftImg {
-    width: 120px;
+    width: 140px;
     float: left;
     padding: 5px;
 }
@@ -61,4 +61,31 @@
 
 .hide {
     display: none;
+}
+.progress-bar.width10{
+    width:10%;
+}
+.progress-bar.width30{
+    width:30%;
+}
+.progress-bar.width50{
+    width:50%;
+}
+.progress-bar.width70{
+    width:70%;
+}
+.progress-bar.width100{
+    width:100%;
+}
+.progress-bar{
+    background-color: #000;
+}
+.progress{
+        height: 10px;
+}
+.progressdiv{
+    position: fixed;
+    top: 52px;
+    right: 0;
+    left: 0;
 }
